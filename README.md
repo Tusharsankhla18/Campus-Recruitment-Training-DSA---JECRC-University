@@ -1,2 +1,2 @@
-# Campus-Recruitment-Training-DSA---JECRC-University
+Exploratory Data Analysis for Feature selection to build a Predictive Model for Dynamic Pricing.
 
